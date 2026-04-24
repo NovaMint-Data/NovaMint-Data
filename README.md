@@ -49,8 +49,8 @@ I focus on building clean, structured, and visual data solutions.
 
 ## 📫 Contact
 
-- Email: your.email@example.com  
-- GitHub: https://github.com/YOUR_USERNAME  
+- Email: houariibtissem2@gmail.com  
+- GitHub: https://github.com/NovaMint-Data  
 
 ---
 
