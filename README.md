@@ -30,9 +30,8 @@ I focus on building clean, structured, and visual data solutions.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NovaMint-Data&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaMint-Data" />
 </p>
-
 ---
 
 ## 🎯 Goals
